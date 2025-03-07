@@ -2,6 +2,7 @@
 #include <stdbool.h>
 #include <string.h>
 
+
 #define NUMPROTEINS 64
 #define SIZE 100
 
